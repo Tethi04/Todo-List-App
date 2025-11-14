@@ -1,8 +1,11 @@
 <div align="center">
 TO-DO-LIST-CLI-APP
+ 
 A simple, cute, and persistent To-Do List for your terminal.
 </div>
-Overview
+
+Overview:
+
 To-Do-List-CLI-App is a console-based application built in Python that allows users to manage their daily tasks. It provides a simple, interactive menu to add, view, and remove tasks. All tasks are saved to a local tasks.txt file, so your to-do list persists even after you close the application.
 
 Features
@@ -15,7 +18,7 @@ Features
  * ❌ Remove Tasks: Easily remove completed or unwanted tasks by their number.
    
  * 💾 Persistent Storage: Your tasks are automatically saved to tasks.txt and reloaded every time you start the app.
- * 
+
 How to Run
  * Clone or Download:
    Get the todo.py file from this repository.
