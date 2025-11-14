@@ -22,7 +22,8 @@ Features
 How to Run
  * Clone or Download:
    Get the todo.py file from this repository.
-   git clone []
+   git clone [https://github.com/Tethi04/Todo-List-App/tree/main]
+   
    []
 
  * Navigate to the directory:
